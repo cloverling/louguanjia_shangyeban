@@ -12143,7 +12143,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC Bold', 'PingFang SC';
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -12157,7 +12157,7 @@
   top:117px;
   width:113px;
   height:44px;
-  font-family:'PingFang SC Bold', 'PingFang SC';
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -12186,7 +12186,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12201,7 +12201,7 @@
   top:186px;
   width:1136px;
   height:423px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12434,7 +12434,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12448,7 +12448,7 @@
   top:249px;
   width:200px;
   height:22px;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12480,7 +12480,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12494,7 +12494,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12573,7 +12573,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12587,7 +12587,7 @@
   top:287px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12619,7 +12619,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12633,7 +12633,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12669,7 +12669,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12683,7 +12683,7 @@
   top:287px;
   width:71px;
   height:22px;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12712,7 +12712,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12726,7 +12726,7 @@
   top:287px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12758,7 +12758,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12772,7 +12772,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12808,7 +12808,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12822,7 +12822,7 @@
   top:288px;
   width:85px;
   height:22px;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12851,7 +12851,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12865,7 +12865,7 @@
   top:288px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12897,7 +12897,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12911,7 +12911,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -12990,7 +12990,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13004,7 +13004,7 @@
   top:325px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13036,7 +13036,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13050,7 +13050,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13346,7 +13346,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13360,7 +13360,7 @@
   top:505px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13392,7 +13392,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13406,7 +13406,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13487,7 +13487,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13501,7 +13501,7 @@
   top:505px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13533,7 +13533,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13547,7 +13547,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13628,7 +13628,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13642,7 +13642,7 @@
   top:505px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13674,7 +13674,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13688,7 +13688,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13769,7 +13769,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13783,7 +13783,7 @@
   top:544px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13815,7 +13815,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13829,7 +13829,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13910,7 +13910,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13924,7 +13924,7 @@
   top:544px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -13956,7 +13956,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13970,7 +13970,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -13998,7 +13998,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14013,7 +14013,7 @@
   top:1229px;
   width:1136px;
   height:171px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14216,7 +14216,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14230,7 +14230,7 @@
   top:1296px;
   width:200px;
   height:22px;
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14262,7 +14262,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14276,7 +14276,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14505,7 +14505,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14519,7 +14519,7 @@
   top:427px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14551,7 +14551,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14565,7 +14565,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14646,7 +14646,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14660,7 +14660,7 @@
   top:427px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14692,7 +14692,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14706,7 +14706,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14787,7 +14787,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14801,7 +14801,7 @@
   top:466px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14833,7 +14833,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14847,7 +14847,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14928,7 +14928,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14942,7 +14942,7 @@
   top:466px;
   width:200px;
   height:22px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -14974,7 +14974,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -14988,7 +14988,7 @@
   width:354px;
   height:16px;
   opacity:0;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -16488,7 +16488,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -16503,7 +16503,7 @@
   top:768px;
   width:199px;
   height:424px;
-  font-family:'Microsoft Tai Le';
+  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
